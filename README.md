@@ -1,5 +1,3 @@
-<h1>Introduction about me</h1>
-
  ### :wave: Hi, I’m [@fishudroid](https://github.com/fishudroid). My real name is **Phạm Minh Đức**. 
 
  ### :books: I'm a _Vietnamese student_ and I'm interested in **IT**! 
@@ -11,18 +9,4 @@
  - **Discord**: @Nakiri Ayame#7916 
  - **Telegram**: @DuckyNA
  - **Zalo**: +84889035565 <hr>
- 
- <h1>What I am doing</h1>
-  # Do some stuffs for my school.
-  
-  ###### Learning more kind of Programming language for my work in future.
- 
-  ###### I'm studying software dev.
- 
- <hr>
-
- ## _**Dwight D. Eisenhower**_ said: 
-
- > _**Accomplishment will prove to be a journey, not a destination**_
- 
  ![Ayame](/ayame-nakiri-ayame.gif)
