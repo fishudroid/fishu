@@ -13,11 +13,11 @@
  - **Zalo**: +84889035565 <hr>
  
  <h1>What I am doing</h1>
-  # Do some stuffs for my school.
+  ###### Do some stuffs for my school.
   
-  # Learning more kind of Programming language for my work in future.
+  ###### Learning more kind of Programming language for my work in future.
  
-  # I'm studying software dev.
+  ###### I'm studying software dev.
  
  <hr>
 
