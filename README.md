@@ -25,4 +25,4 @@
 
  > _**Accomplishment will prove to be a journey, not a destination**_
  
- ![](https://tenor.com/bnyH1.gif =249x194)
+ ![Ayame](https://tenor.com/bnyH1.gif)
